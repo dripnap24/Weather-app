@@ -1,4 +1,4 @@
-const apiKey = "cf3fb59a568277f5d3b9c8bfaf8a4c74";
+const apiKey = "";
 
 function getLocation() {
   if (navigator.geolocation) {
